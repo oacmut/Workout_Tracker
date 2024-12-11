@@ -1,8 +1,6 @@
-# Pontvadász ZH 
+# Pontvadász ZH Cherry Picking árlap
 
 ## Borbély Balázs - OACMUT
-
-## Cherry Picking árlap
 
 ### Windows Forms Application
 ##### User Interface 
@@ -93,4 +91,4 @@ Itt csak azok az elemek számíthatóak be, amelyeknek meg van a ZH alatt felép
 
 2 pont
 
-##Összesen: 56 pont
+# Összesen: 56 pont
