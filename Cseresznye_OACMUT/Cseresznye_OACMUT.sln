@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cseresznye_OACMUT", "Cseresznye_OACMUT\Cseresznye_OACMUT.csproj", "{B549AFB9-61F6-4915-B0AD-8CFABAC2CABF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cseresznye_OACMUT_API", "Cseresznye_OACMUT_API\Cseresznye_OACMUT_API.csproj", "{D841FCB9-2E08-4916-93E7-EFB18D638F3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B549AFB9-61F6-4915-B0AD-8CFABAC2CABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B549AFB9-61F6-4915-B0AD-8CFABAC2CABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B549AFB9-61F6-4915-B0AD-8CFABAC2CABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B549AFB9-61F6-4915-B0AD-8CFABAC2CABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D841FCB9-2E08-4916-93E7-EFB18D638F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D841FCB9-2E08-4916-93E7-EFB18D638F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D841FCB9-2E08-4916-93E7-EFB18D638F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D841FCB9-2E08-4916-93E7-EFB18D638F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E79D666-EDE4-4691-BC60-4CDBD8DEB99A}
+	EndGlobalSection
+EndGlobal
