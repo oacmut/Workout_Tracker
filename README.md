@@ -1,4 +1,4 @@
-# Pontvadász ZH Árlap
+# Pontvadász cherry picking teszt árlap
 
 ## Borbély Balázs - OACMUT
 
